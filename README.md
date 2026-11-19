@@ -64,13 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-modmillennialdesigns-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
+Mod Millennial Designs is a Dallas‑based fashion and design brand offering a curated collection of apparel, accessories, and home décor. The company showcases a wide range of themed collections such as Dollhouse, Victorian Romance, Rococo Bouquet, and Baja, blending contemporary style with nostalgic influences. Their online store provides detailed product pages, a style guide, and contact information, reflecting a boutique e‑commerce experience for fashion‑forward customers.
 
-**Areas:** Boutique · Athleisure · Bags · Pajamas · Shoes · Stationery · Design Collections
+**Areas:** Fashion · E‑commerce · Apparel · Home Décor · Dallas
 
 ## Mod Millennial Designs on APIs.io
 
 Everything profiled for Mod Millennial Designs is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/modmillennialdesigns-com/](https://apis.io/providers/modmillennialdesigns-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Mod Millennial Designs GraphQL API](https://apis.io/apis/modmillennialdesigns-com/mod-millennial-designs-graphql-api/) — GraphQL endpoint providing schema information for Mod Millennial Designs.
 
 ### Published properties
 
@@ -87,20 +91,21 @@ Authentication, trust centre, and vulnerability disclosure.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://modmillennialdesigns.com/)
+- [Support](https://modmillennialdesigns.com/pages/contact)
 - [Terms of service](https://modmillennialdesigns.com/policies/terms-of-service)
 - [Privacy policy](https://modmillennialdesigns.com/policies/privacy-policy)
 
 ## API Evangelist rating
 
-**Kin Score 6.4** — minimal · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 10.1** — minimal · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
-| Discoverability | 41.1 |
+| Discoverability | 67.9 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
+| Developer ergonomics | 4.8 |
 | Access clarity | 17.0 |
 
 **Agent readiness 7.6** — agent-aware
